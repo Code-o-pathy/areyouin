@@ -13,6 +13,7 @@
 --npm install firebase
 --add web template into firebase.js(create this file export getAuth() from here)
 --npm install -g firebase-tools(to host the app)
+--deploy
 
 
 
